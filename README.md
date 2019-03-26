@@ -18,15 +18,15 @@ Business Analyst and Project Manager on a project for a consortium of 7 banks im
 
 Project Manager on two proof of concepts for a Global Bank investigating the usefulness of smart contracts and blockchain tech for small business loans. Manged a team of between 3 - 7 developers to deliver to successful PoCs within challenging deadlines.
 
-**PwC (Jun 13 - Oct 15)**
+**PwC (Jun 13 - Oct 15) - Alternative Finance Research**
 
 Research analyst focussing on alternative finance, crowdfunding and cryptocurrency.  
 
-**PwC (Jul 12 - Jun 13)**
+**PwC (Jul 12 - Jun 13) - Crowdsourcing Platform**
 
 Secondment to an Innovation team to help roll out a crowdsourced ideas platform as part of a new offering to PwC's clients.
 
-**PwC (Sept 09 - Jul 12)**
+**PwC (Sept 09 - Jul 12) - Accountancy**
 
 Accountancy Graduate Scheme, worked on small and large teams on the audit of FTSE 100 companies.
 
