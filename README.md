@@ -51,11 +51,11 @@ Introductory course for developers looking to gain a base understanding of build
 
 12 week online course split 50:50 between the technology behind digital currencies and the macroeconomic environment they are being built in as well as their implications for that environment.
 
-Distinction - 88% final exam
+Distinction - 88% final exam.
 
 **Makers Academy (Oct 15 - Jan 16)**
 
-16 week coding bootcamp
+16 week coding bootcamp focussed on an introduction to web development, TDD, pair programming, building projects individually and in teams and becoming a better coder every day whilst having fun.
 
 **ICAEW (Sept 09 - Jul 12) - Accountancy Qualification**
 
@@ -72,7 +72,7 @@ Management Studies - 1st Class
 ## Interests
 Music Production
 
-Writing (example blogs)
+Writing
 
 Crowdfunding
 
