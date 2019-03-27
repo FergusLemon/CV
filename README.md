@@ -59,7 +59,7 @@ Distinction - 88% final exam.
 
 **ICAEW (Sept 09 - Jul 12) - Accountancy Qualification**
 
-First time passes on all 15 exams, ACA qualified. Received MCC prizes for the highest mark in 4 out of the 15 exams.
+First time passes on all 15 exams, ACA qualified. Received MCA prizes for the highest mark in 4 out of the 15 exams.
 
 **BBP Law School (Sept 08 - Jul 09)**
 
