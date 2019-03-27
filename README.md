@@ -82,6 +82,8 @@ Management Studies - 1st Class
 ## Interests
 Music Production
 
+Travel - Asia (Oct 17 - Sept 18) / South America (Jan 04 - Sept 04)
+
 Writing @ [alemon4markets](https://alemon4markets.com/)
 
 Crowdfunding
