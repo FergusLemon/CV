@@ -28,7 +28,7 @@ Project Manager on two proof of concepts for a Global Bank investigating the use
 
 **PwC (Jun 13 - Oct 15) - Alternative Finance Research**
 
-Research analyst focussing on alternative finance, crowdfunding and cryptocurrency. Helped to produce the first Alternative Finance Industry Report in 2014 and wrote some of the earliest pieces of research on the sectors for PwC's clients.
+Research analyst focussing on alternative finance, crowdfunding and cryptocurrency. Helped to produce the first [Alternative Finance Industry Report](https://www.nesta.org.uk/report/understanding-alternative-finance-the-uk-alternative-finance-industry-report-2014/) in 2014 and wrote [some of the earliest pieces](https://pwc.blogs.com/deals/fergus-lemon/) of research on the sectors for PwC's clients.
 
 **PwC (Jul 12 - Jun 13) - Crowdsourcing Platform**
 
@@ -72,7 +72,7 @@ Management Studies - 1st Class
 ## Interests
 Music Production
 
-Writing
+Writing @ [alemon4markets](https://alemon4markets.com/)
 
 Crowdfunding
 
