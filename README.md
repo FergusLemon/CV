@@ -9,10 +9,20 @@ I have over eight years' worth of experience at PwC where I was a number one rat
 
 ## Skills
 
+**Resourcefulness**
+
+I take time to understand and research problems / tasks myself and attempt a solution before seeking help from others.  I have taught myself the basic buidling blocks of languages and frameworks using the abundance of resources available online as evidenced by my projects below.
+
+**Teamwork**
+
+I enjoy working in a team in pursuit of a common goal and I can flex my style to work in teams of all sizes and disciplines, I developed many of these skills in my time at PwC, I also thrived in the team project exercise at Makers Academy. I have also learnt to stay calm under time pressure and in situations where a solution appears out of reach.
+
+
+
 ## Projects
 
 
-| Name       | Description                     | Tech       | Testing  |
+| Name       | Description                     | Tech              | Testing       |
 |------------|---------------------------------|-------------------|----------------
 | [NanoClocks](https://github.com/FergusLemon/nanoclocks) | Web-based tool that fetches price data for the $NANO, a novel cryptocurrency, and $USD trading pair and allows users to search for a price and find the last time that price was paid.  The motivation behind the project was to build out a personal idea, interact with a public API, learn Typescript and React and provide a fun tool for the Nano currency community to use. | Typescript, React, CSS, Axios | Jest, Enzyme, Travis, Cypress |
 | [FairBnB](https://github.com/FergusLemon/fairBnB) | Website that mimics a basic AirBnB style site, allows users to list, view and make booking requests for properties. Used as a project to learn Node.js and MongoDB, built as part of the Makers Academy course. | Javascript, Node.js, Express, MongoDB, CSS | Mocha, Chai, Sinon, Travis, TestCafe |
