@@ -5,7 +5,7 @@ I am a junior developer with a passion for building and learning. I am looking t
 
 I have over eight years' worth of experience at PwC where I was a number one rated senior manager, I managed teams ranging from 2-20 people working across various sectors and services, from Accounting to Technology Consulting.  In 2016 I completed the Makers Academy coding bootcamp with a view to gaining skills that would help me move into a more technical role at PwC and whilst I achieved that goal there was little to no scope for me to gain experience coding.  Having assessed my options I took the difficult decision to leave PwC and focus my efforts on landing a role as a developer.
 
-**Tech Skills**: Javascript, Typescript, Ruby, HTML, CSS, React, Node.js, Express, MongoDB
+**Tech Skills**: Javascript, Typescript, Ruby, Git, HTML, CSS, React, Node.js, Express, MongoDB
 
 ## Skills
 
