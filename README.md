@@ -15,8 +15,11 @@ I take time to understand and research problems / tasks myself and attempt a sol
 
 **Teamwork**
 
-I enjoy working in a team in pursuit of a common goal and I can flex my style to work in teams of all sizes and disciplines, I developed many of these skills in my time at PwC, I also thrived in the team project exercise at Makers Academy. I have also learnt to stay calm under time pressure and in situations where a solution appears out of reach.
+I enjoy working in a team in pursuit of a common goal and I can flex my style to work in teams of all sizes and disciplines, I developed many of these skills in my time at PwC, I thrived in the team project exercise at Makers Academy. I have also learnt to stay calm under time pressure and in situations where a solution appears out of reach.
 
+**Detailed**
+
+I like to do a job properly no matter what it is, I have a history of producing concise yet detailed work on multiple projects from my previous career, in my engineering projects I try to write helpful commit messages and READMEs that help others to understand what my codebase does, the motivation behind it, how to install and run it and how it has been tested.
 
 
 ## Projects
