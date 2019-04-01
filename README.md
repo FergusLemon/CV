@@ -11,7 +11,7 @@ I have over eight years' worth of experience at PwC where I was a number one rat
 
 **Resourcefulness**
 
-I take time to understand and research problems / tasks myself and attempt a solution before seeking help from others.  I have taught myself the basic buidling blocks of languages and frameworks using the abundance of resources available online as evidenced by my projects below.
+I take time to understand and research problems / tasks myself and attempt a solution before seeking help from others.  I have taught myself the basic building blocks of languages and frameworks using the abundance of resources available online as evidenced by my projects below.
 
 **Teamwork**
 
@@ -35,9 +35,9 @@ I like to do a job properly no matter what it is, I have a history of producing 
 ## Experience
 **PwC (Jan 16 - Oct 17) - Tech Consulting**
 
-Business Analyst and Project Manager on a project for a consortium of 7 banks implementing a blockchain based trade finance solution for their European business customers. Helped to take the project from ideation though to development stage, worked fluidly across business, technical and regualtory teams from all banks and the outsourced provider building the platform.
+Business Analyst and Project Manager on a project for a consortium of 7 banks implementing a blockchain based trade finance solution for their European business customers. Helped to take the project from ideation though to development stage, worked fluidly across business, technical and regulatory teams from all banks and the outsourced provider building the platform.
 
-Project Manager on two proof of concepts for a Global Bank investigating the usefulness of smart contracts and blockchain tech for small business loans. Manged a team of between 3 - 7 developers to deliver to successful PoCs within challenging deadlines.
+Project Manager on two proof of concepts for a Global Bank investigating the usefulness of smart contracts and blockchain tech for small business loans. Managed a team of between 3 - 7 developers to deliver to successful PoCs within challenging deadlines.
 
 **PwC (Jun 13 - Oct 15) - Alternative Finance Research**
 
