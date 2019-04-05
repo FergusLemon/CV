@@ -89,8 +89,6 @@ LLB - Distinction
 Management Studies - 1st Class
 
 <br/>
-<br/>
-<br/>
 
 ## Interests
 Music Production
