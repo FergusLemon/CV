@@ -5,9 +5,11 @@ I am a junior developer with a passion for building and learning. I am looking t
 
 I have over eight years' worth of experience at PwC where I was a number one rated senior manager, I managed teams ranging from 2-20 people working across various sectors and services, from Accounting to Technology Consulting.  In 2016 I completed the Makers Academy coding bootcamp with a view to gaining skills that would help me move into a more technical role at PwC and whilst I achieved that goal there was little to no scope for me to gain experience coding.  Having assessed my options I took the difficult decision to leave PwC and focus my efforts on landing a role as a developer.
 
-**Tech Skills**: Javascript, Typescript, Ruby, Git, HTML, CSS, React, Node.js, Express, MongoDB
+<br/>
 
 ## Skills
+
+**Tech Skills**: Javascript, Typescript, Ruby, Git, HTML, CSS, React, Node.js, Express, MongoDB
 
 **Resourcefulness**
 
@@ -19,8 +21,9 @@ I enjoy working in a team in pursuit of a common goal and I can flex my style to
 
 **Detailed**
 
-I like to do a job properly no matter what it is, I have a history of producing concise yet detailed work on multiple projects from my previous career, in my engineering projects I try to write helpful commit messages and READMEs that help others to understand what my codebase does, the motivation behind it, how to install and run it and how it has been tested.
+I like to do a job properly no matter what it is, I have a history of producing concise yet detailed work on multiple projects from my previous career, in my engineering projects I try to write useful READMEs that help others to understand what my codebase does, the motivation behind it, how to install and run it and how it has been tested.
 
+<br/>
 
 ## Projects
 
@@ -31,10 +34,7 @@ I like to do a job properly no matter what it is, I have a history of producing 
 | [FairBnB](https://github.com/FergusLemon/fairBnB) | Website that mimics a basic AirBnB style site, allows users to list, view and make booking requests for properties. Used as a project to learn Node.js and MongoDB, built as part of the Makers Academy course. | Javascript, Node.js, Express, MongoDB, CSS | Mocha, Chai, Sinon, Travis, TestCafe |
 | [Bookmarker](https://github.com/FergusLemon/bookmarker) | A simpe web application that allows users to bookmark websites, view and visit those websites from a list of all bookmarks, add comments and tags to an individual bookmark and delete bookmarks, built as part of the Makers Academy Course.| Ruby, SQL, Sinatra, Postgres | RSpec, Capybara |
 
-
-
-
-
+<br/>
 
 ## Experience
 **PwC (Jan 16 - Oct 17) - Tech Consulting**
@@ -54,6 +54,8 @@ Secondment to an Innovation team to help roll out a crowdsourced ideas platform 
 **PwC (Sept 09 - Jul 12) - Accountancy**
 
 Accountancy Graduate Scheme, worked on small and large teams on the audit of FTSE 100 companies.
+
+<br/>
 
 ## Education
 **Point Blank Music School (Jan 19 - Mar 19)**
@@ -85,6 +87,8 @@ LLB - Distinction
 **Nottingham University (Sept 04 - Jul 07)**
 
 Management Studies - 1st Class
+
+<br/>
 
 ## Interests
 Music Production
