@@ -100,3 +100,5 @@ Writing @ [alemon4markets](https://alemon4markets.com/)
 Crowdfunding
 
 Bitcoin / Nano Currency
+
+Codewars @ [FergusLemon](https://www.codewars.com/users/FergusLemon)
