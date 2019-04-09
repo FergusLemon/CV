@@ -34,7 +34,7 @@ I like to do a job properly no matter what it is, I have a history of producing 
 |------------|-------------------------------|-------------------|----------------
 | [NanoClocks](https://github.com/FergusLemon/nanoclocks) | Web-based tool that fetches price data for the $NANO, a novel cryptocurrency, and $USD trading pair and allows users to search for a price and find the last time that price was paid.  The motivation behind the project was to build out a personal idea, interact with a public API, learn Typescript and React and provide a fun tool for the Nano currency community to use. | Typescript, React, CSS, Axios | Jest, Enzyme, Travis, Cypress |
 | [FairBnB](https://github.com/FergusLemon/fairBnB) | Website that mimics a basic AirBnB style site, allows users to list, view and make booking requests for properties. Used as a project to learn Node.js and MongoDB, built as part of the Makers Academy course. | Javascript, Node.js, Express, MongoDB, CSS | Mocha, Chai, Sinon, Travis, TestCafe |
-| [Bookmarker](https://github.com/FergusLemon/bookmarker) | A simpe web application that allows users to bookmark websites, view and visit those websites from a list of all bookmarks, add comments and tags to an individual bookmark and delete bookmarks, built as part of the Makers Academy Course.| Ruby, SQL, Sinatra, Postgres | RSpec, Capybara |
+| [Bookmarker](https://github.com/FergusLemon/bookmarker) | A simple web application that allows users to bookmark websites, view and visit those websites from a list of all bookmarks, add comments and tags to an individual bookmark and delete bookmarks, built as part of the Makers Academy Course.| Ruby, SQL, Sinatra, Postgres | RSpec, Capybara |
 
 <br/>
 
