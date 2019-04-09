@@ -1,6 +1,8 @@
 # [Fergus Lemon](https://github.com/FergusLemon/)
 [Skills](#skills) | [Projects](#projects) | [Experience](#experience) | [Education](#education) | [Interests](#interests)
 
+https://github.com/FergusLemon/
+
 I am a junior developer with a passion for building and learning. I am looking to join a team with a focus on building products driven by customers needs, that follow the principles of TDD, clean code and 'You aren't gonna need it' (YAGNI).  In return I offer resourcefulness, clear thinking, a desire to keep learning and to tackle difficult problems to support the team's goals. 
 
 I have over eight years' worth of experience at PwC where I was a number one rated senior manager, I managed teams ranging from 2-20 people working across various sectors and services, from Accounting to Technology Consulting.  In 2016 I completed the Makers Academy coding bootcamp with a view to gaining skills that would help me move into a more technical role at PwC and whilst I achieved that goal there was little to no scope for me to gain experience coding.  Having assessed my options I took the difficult decision to leave PwC and focus my efforts on landing a role as a developer.
@@ -95,7 +97,7 @@ Music Production
 
 Travel - Asia (Oct 17 - Sept 18) / South America (Jan 04 - Sept 04)
 
-Writing @ [alemon4markets](https://alemon4markets.com/)
+Writing @ [alemon4markets](https://alemon4markets.com/) - https://alemon4markets.com/
 
 Crowdfunding
 
