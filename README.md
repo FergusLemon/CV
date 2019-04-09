@@ -34,6 +34,7 @@ I like to do a job properly no matter what it is, I have a history of producing 
 | [FairBnB](https://github.com/FergusLemon/fairBnB) | Website that mimics a basic AirBnB style site, allows users to list, view and make booking requests for properties. Used as a project to learn Node.js and MongoDB, built as part of the Makers Academy course. | Javascript, Node.js, Express, MongoDB, CSS | Mocha, Chai, Sinon, Travis, TestCafe |
 | [Bookmarker](https://github.com/FergusLemon/bookmarker) | A simple web application that allows users to bookmark websites, view and visit those websites from a list of all bookmarks, add comments and tags to an individual bookmark and delete bookmarks, built as part of the Makers Academy Course.| Ruby, SQL, Sinatra, Postgres | RSpec, Capybara |
 
+<br/>
 
 ## Experience
 **PwC (Jan 16 - Oct 17) - Tech Consulting**
@@ -94,8 +95,6 @@ Travel - Asia (Oct 17 - Sept 18) / South America (Jan 04 - Sept 04)
 
 Writing @ [alemon4markets](https://alemon4markets.com/) - https://alemon4markets.com/
 
-Crowdfunding
-
-Bitcoin / Nano Currency
+Crowdfunding / Bitcoin / Nano Currency
 
 Codewars @ [FergusLemon](https://www.codewars.com/users/FergusLemon)
